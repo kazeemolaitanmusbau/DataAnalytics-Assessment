@@ -2,9 +2,9 @@
 
 
 
-##  SQL Assessment for Data Analyst Role – Cowrywise
+##  SQL Assessment for Data Analyst Role 
 
-This repository contains my submission for the SQL assessment given as part of the Data Analyst job application at **Cowrywise**. The assessment focuses on evaluating SQL proficiency in querying, analyzing, and drawing insights from relational data.
+This repository contains my submission for the SQL assessment given as part of the Data Analyst job application. The assessment focuses on evaluating SQL proficiency in querying, analyzing, and drawing insights from relational data.
 
 The tasks demonstrate the ability to:
 
