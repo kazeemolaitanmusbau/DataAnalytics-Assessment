@@ -18,7 +18,7 @@ All queries and explanations are included, with a focus on clarity, performance,
 
 
 
-#### AssessmentQ1 Explanation:
+#### Assessment-Q1 Explanation:
 
 
 
@@ -70,10 +70,10 @@ This query generates a ranked list of users based on their **total deposits**, c
 
 
 
-#### AssessmentQ2 Explanation:
+#### Assessment-Q2 Explanation:
 
 
-Here’s a concise and clear README for your second SQL query:
+
 
 ---
 
