@@ -114,7 +114,7 @@ This query analyzes **user savings activity** by calculating their **average mon
 
 ##  Possible Improvements
 
-* if only recent data is relevant (e.g. last 12 months).
+* use filter if only recent data is relevant .
 * **Ensure indexing** on `owner_id` and `transaction_date` for better performance.
 
 ---
