@@ -24,4 +24,4 @@ SELECT
         ELSE 'Low Frequency'
     END AS frequency_category
 FROM users_customuser u
-LEFT JOIN avg_transactions_per_user a ON u.id = a.owner_id;
+INNER JOIN avg_transactions_per_user a ON u.id = a.owner_id;
