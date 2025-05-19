@@ -18,7 +18,7 @@ clv_calculation AS (
         name,
         tenure_months,
         total_transactions,
-        -- Convert kobo to naira and calculate average profit per transaction
+       -- 
         CASE 
             WHEN total_transactions > 0 THEN 
                 ((total_inflow_value_kobo / 100.0) * 0.001) / total_transactions
